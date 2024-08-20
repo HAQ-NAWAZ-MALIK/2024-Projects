@@ -1,7 +1,22 @@
-##Python Discord Bot.
+## Simple Discord Bot
 
-This is a starting point for making your own Discord bot using Python and the discordpy library. Read their getting-started guides to get the most out of this template.
+This is a basic Discord bot built using the discord.py library. It responds to a simple command and demonstrates how to set up a Discord bot with Python.
 
+## Features
+
+- Connects to Discord and logs in as a bot
+- Responds to the '$hello' command with a greeting
+- Handles rate limiting errors
+
+## Prerequisites
+
+- Python 3.6 or higher
+- discord.py library
+- A Discord bot token
+
+## Setup
+
+1. Install the required package:
 ##Getting Started.
 
 To get set up, you'll need to follow these bot account setup instructions, and then copy the token for your bot and added it as a secret with the key of TOKEN in the "Secrets (Environment variables)" panel.
