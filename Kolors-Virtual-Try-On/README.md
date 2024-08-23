@@ -1,4 +1,5 @@
 # Wear it now Virtually
+![image](https://github.com/user-attachments/assets/f3168c10-9536-4eaa-abb3-774d540369d5)
 
 This web application allows users to virtually try on garments by uploading images of a person and a garment on gradio Interface. It uses a machine learning model {Kwai-Kolors/Model} to generate a realistic composite image of the person wearing the selected garment.
 
