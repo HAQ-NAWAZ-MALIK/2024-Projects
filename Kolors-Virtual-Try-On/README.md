@@ -1,6 +1,6 @@
 # Wear it now Virtually
 
-This web application allows users to virtually try on garments by uploading images of a person and a garment. It uses a machine learning model {Kwai-Kolors/Model} to generate a realistic composite image of the person wearing the selected garment.
+This web application allows users to virtually try on garments by uploading images of a person and a garment on gradio Interface. It uses a machine learning model {Kwai-Kolors/Model} to generate a realistic composite image of the person wearing the selected garment.
 
 ## Features
 
@@ -53,17 +53,6 @@ The application uses two main functions:
 
 
 
-Run the application:
----
-title: Kolors Virtual Try-On
-emoji: 👕
-colorFrom: purple
-colorTo: gray
-sdk: gradio
-sdk_version: 4.38.1
-app_file: app.py
-pinned: false
-license: apache-2.0
 ---
 
 
