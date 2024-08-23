@@ -1,4 +1,4 @@
-# Virtual Try-On Web Application
+# Wear it now Virtually
 
 This web application allows users to virtually try on garments by uploading images of a person and a garment. It uses a machine learning model {Kwai-Kolors/Model} to generate a realistic composite image of the person wearing the selected garment.
 
