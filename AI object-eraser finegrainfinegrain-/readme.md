@@ -24,25 +24,7 @@ This project leverages Refiners, an open-source micro-framework designed for the
 ### 2. Erase by Bounding Box
 - Upload your image.
 - Use the bounding box tool to select the object you want to remove.
-- Click the "Erase Object" button to see the results.
-
-## Examples
-
-Here are some example scenarios where the Object Eraser has been used effectively:
-
-- **Soap removed from a clean room setting**  
-  ![Before](examples/white-towels-rattan-basket-white-table-with-bright-room-background.jpg)  
-  ![After](examples/white-towels-rattan-basket-white-table-with-bright-room-background.jpg)
-
-- **Potted plant removed from a mirror reflection**  
-  ![Before](examples/interior-decor-with-mirror-potted-plant.jpg)  
-  ![After](examples/interior-decor-with-mirror-potted-plant.jpg)
-
-- **Basketball removed from a court**  
-  ![Before](examples/detail-ball-basketball-court-sunset.jpg)  
-  ![After](examples/detail-ball-basketball-court-sunset.jpg)
-
-For more examples, check the examples folder.
+- C
 
 ## Getting Started
 
@@ -58,10 +40,6 @@ For more examples, check the examples folder.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-repo/object-eraser.git
-   cd object-eraser
-   ```
 
 2. Install the required dependencies:
 
