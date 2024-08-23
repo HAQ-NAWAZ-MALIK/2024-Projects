@@ -1,4 +1,5 @@
 # Object Eraser Powered by Refiners
+![image](https://github.com/user-attachments/assets/016b01e4-55e0-4318-93b4-2d81d0aa7ec3)
 
 Object Eraser is a powerful tool that allows you to easily remove objects from your images by simply naming them or by selecting a bounding box. The tool handles the entire process, ensuring that the object is not only removed but that any effects it had on the scene, such as shadows or reflections, are also seamlessly erased.
 
@@ -11,6 +12,7 @@ This project leverages Refiners, an open-source micro-framework designed for the
 - **Interactive UI:** The Gradio interface provides an intuitive, easy-to-use platform with real-time updates.
 - **Powered by Refiners:** Utilizes the Refiners framework for efficient model adaptation and processing.
 - **Seamless Integration:** Works with various image types and handles complex scenes, ensuring a smooth erasure process.
+![image](https://github.com/user-attachments/assets/8a8848aa-4baa-4f2d-92b6-86c5c6ba1652)
 
 ## How It Works
 
