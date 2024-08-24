@@ -1,0 +1,9 @@
+install requirments 
+# gradio
+# spaces
+# accelerate
+# transformers==4.42.4
+# sentencepiece
+# git+https://github.com/Gothos/diffusers.git@flux-inpaint
+
+!pip install gradio spaces accelerate transformers==4.42.4 sentencepiece git+https://github.com/Gothos/diffusers.git@flux-inpaint
