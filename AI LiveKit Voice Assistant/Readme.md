@@ -2,7 +2,8 @@
 
  ![HIA.gif](https://github.com/HAQ-NAWAZ-MALIK/2024-Projects/blob/main/AI%20LiveKit%20Voice%20Assistant/HIA.gif).
  
- [vIEW fULL DEMO]([https://www.linkedin.com/posts/haq-nawaz-malik-70953a277_voiceassistant-ai-innovation-activity-7236809154747588608-FU5J](https://www.linkedin.com/posts/haq-nawaz-malik-70953a277_voiceassistant-ai-innovation-activity-7236809154747588608-FU5J?utm_source=share&utm_medium=member_android))
+ ![vIEW fULL DEMO]([https://www.linkedin.com/posts/haq-nawaz-malik-70953a277_voiceassistant-ai-innovation-activity-7236809154747588608-FU5J](https://www.linkedin.com/posts/haq-nawaz-malik-70953a277_voiceassistant-ai-innovation-activity-7236809154747588608-FU5J?utm_source=share&utm_medium=member_android))
+ 
   
 This project implements a voice assistant using the LiveKit platform. The assistant can interact with users via voice and text chat in Real Time a LiveKit room.
 It uses Deepgram for speech-to-text, OpenAI for the language model and text-to-speech, and Silero for voice activity detection.
