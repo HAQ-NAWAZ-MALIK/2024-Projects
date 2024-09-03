@@ -1,6 +1,7 @@
 # h.AI  Voice Assistant
 
-![Watch the video](HAI.gif)
+  [![Watch the video](HAI.gif)
+
 This project implements a voice assistant using the LiveKit platform. The assistant can interact with users via voice and text chat in Real Time a LiveKit room.
 It uses Deepgram for speech-to-text, OpenAI for the language model and text-to-speech, and Silero for voice activity detection.
 ## Features
